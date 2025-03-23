@@ -1,0 +1,17 @@
+[project]
+name = "ai-consulting-website"
+version = "0.1.0"
+description = "AI Consulting Company Website"
+authors = []
+dependencies = [
+    "mkdocs-material",
+    "mkdocs-git-revision-date-localized-plugin",
+    "mkdocs-glightbox",
+    "mkdocs-material-extensions",
+    "pillow",
+    "cairosvg",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build" 
