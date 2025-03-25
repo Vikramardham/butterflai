@@ -1,9 +1,11 @@
 site_name: AI Consulting Company
 site_description: Professional AI Consulting Services
+site_url: https://Vikramardham.github.io/butterflai
 theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.footer

@@ -1,9 +1,9 @@
 [project]
-name = "ai-consulting-website"
+name = "ButterflAI_Website_Content"
 version = "0.1.0"
-description = "AI Consulting Company Website"
+description = "ButterflAI Website"
 requires-python = ">=3.12"
-authors = []
+authors = ["Vikram Ardham"]
 dependencies = [
     "mkdocs-material",
     "mkdocs-git-revision-date-localized-plugin",
@@ -11,8 +11,5 @@ dependencies = [
     "mkdocs-material-extensions",
     "pillow",
     "cairosvg",
+    "mkdocs>=1.6.1",
 ]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build" 
