@@ -7,7 +7,7 @@ Meet the experts behind our AI consulting success. Our team combines deep techni
 ### Vikram Ardham
 *AI Solutions Architect & Lead Consultant*
 
-![Vikram Ardham](../assets/vikram.jpeg){ align=left width="200" }
+![Vikram Ardham](../assets/team/vikram.jpeg){ align=left width="200" }
 
 Vikram is an accomplished AI Solutions Architect with extensive experience in designing and implementing cutting-edge AI solutions for businesses across various industries. His expertise spans:
 
