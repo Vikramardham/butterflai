@@ -3,6 +3,8 @@ site_description: Professional AI Consulting Services
 site_url: https://Vikramardham.github.io/butterflai
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
