@@ -83,27 +83,12 @@ We're here to help you transform your business with AI. Reach out to us for a co
 
 ### :office: Office Location
 
-AI Consulting Company  
-123 Tech Street  
-Innovation District  
-City, State 12345
-
-### :phone: Phone
-
-- General Inquiries: +1 (555) 123-4567
-- Sales: +1 (555) 123-4568
-- Support: +1 (555) 123-4569
+ButterflAI Consulting
+Ottawa, Canada
 
 ### :email: Email
 
-- General Inquiries: info@aiconsulting.com
-- Sales: sales@aiconsulting.com
-- Support: support@aiconsulting.com
-
-### :clock1: Business Hours
-
-Monday - Friday: 9:00 AM - 6:00 PM (EST)  
-Saturday - Sunday: Closed
+- General Inquiries: vikram@butterflai.ca
 
 ---
 
