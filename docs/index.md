@@ -1,4 +1,4 @@
-# Welcome to AI Consulting Company
+# Welcome to ButterflAI Consulting 
 
 ## Transforming Businesses Through AI Innovation
 

@@ -1,10 +1,10 @@
-site_name: ButterflAI Consulting
-site_description: Professional AI Consulting Services
+site_name: ButterflAI
+site_description: ButterflAI
 site_url: https://Vikramardham.github.io/butterflai
 theme:
   name: material
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/cropped-image-logo.png
+  favicon: assets/cropped-image-logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -56,12 +56,45 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Solutions:
-      - solutions/index.md
-  - Projects:
-      - projects/index.md
+  - Build:
+      - Overview: build/index.md
+      - Development Environment: build/development-environment/index.md
+      - Framework Selection: build/choosing-frameworks/index.md
+      - Data Pipeline Best Practices: build/data-pipeline-best-practices/index.md
+      - Model Training Strategies: build/model-training-strategies/index.md
+      - Topics:
+          - Data Preparation: build/topic/data-preparation/index.md
+          - Model Architecture: build/topic/model-architecture/index.md
+          - Training Techniques: build/topic/training-techniques/index.md
+          - Testing & Validation: build/topic/testing-validation/index.md
+          - Performance Optimization: build/topic/performance-optimization/index.md
+  - Deploy:
+      - Overview: deploy/index.md
+      - MLOps Fundamentals: deploy/mlops-fundamentals/index.md
+      - Containerizing AI Applications: deploy/containerizing-ai-apps/index.md
+      - Cloud Deployment Options: deploy/cloud-deployment-options/index.md
+      - Monitoring AI Systems: deploy/monitoring-ai-systems/index.md
+      - Topics:
+          - Infrastructure as Code: deploy/topic/infrastructure-as-code/index.md
+          - CI/CD for AI: deploy/topic/cicd-for-ai/index.md
+          - Scaling Strategies: deploy/topic/scaling-strategies/index.md
+          - Security Best Practices: deploy/topic/security-best-practices/index.md
   - Blog:
-      - blog/index.md
+      - Overview: blog/index.md
+      - LLMs:
+          - Getting Started with LLMs: blog/getting-started-with-llms/index.md
+          - Advanced Prompt Engineering: blog/advanced-prompt-engineering/index.md
+          - Fine-tuning LLMs: blog/fine-tuning-llms/index.md
+          - Building RAG Systems: blog/building-rag-systems/index.md
+      - AI Applications:
+          - AI for Customer Service: blog/ai-for-customer-service/index.md
+          - The Future of Computer Vision: blog/future-of-computer-vision/index.md
+          - Building Responsible AI Systems: blog/responsible-ai-systems/index.md
+      - Categories:
+          - Machine Learning: blog/category/machine-learning/index.md
+          - Natural Language Processing: blog/category/nlp/index.md
+          - Computer Vision: blog/category/computer-vision/index.md
+          - MLOps: blog/category/mlops/index.md
   - Team: team/index.md
   - Testimonials: testimonials.md
   - Contact: contact.md
@@ -69,8 +102,8 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/YourGitHub
+      link: https://github.com/Vikramardham
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/company/YourCompany
+      link: https://linkedin.com/company/ButterflAI
 
-copyright: Copyright &copy; 2024 AI Consulting Company
+copyright: Copyright &copy; 2025 ButterflAI
