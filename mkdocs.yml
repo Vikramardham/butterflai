@@ -3,8 +3,8 @@ site_description: ButterflAI
 site_url: https://Vikramardham.github.io/butterflai
 theme:
   name: material
-  logo: assets/cropped-image-logo.png
-  favicon: assets/cropped-image-logo.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -30,6 +30,10 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime
+  custom_dir: docs/overrides
+  
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search

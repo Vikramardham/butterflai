@@ -1,0 +1,35 @@
+/* Make the logo circular */
+.md-logo img {
+    border-radius: 50%;
+    /* Makes the image circular */
+    border: 2px solid white;
+    /* Adds a white border around the circle */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Adds a subtle shadow */
+    overflow: hidden;
+    /* Ensures nothing sticks out of the circle */
+    background-color: white;
+    /* White background for logo */
+    padding: 2px;
+    /* Small padding to offset the logo from the border */
+    transition: transform 0.3s ease;
+    /* Smooth transition for hover effect */
+}
+
+.md-logo img:hover {
+    transform: scale(1.1);
+    /* Slightly enlarges the logo on hover */
+}
+
+/* Adjust logo size if needed */
+.md-header__button.md-logo {
+    padding: 4px;
+}
+
+/* For mobile screens */
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-logo img {
+        border-radius: 50%;
+        border: 2px solid white;
+    }
+}
