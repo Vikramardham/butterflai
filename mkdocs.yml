@@ -78,6 +78,7 @@ nav:
       - Containerizing AI Applications: deploy/containerizing-ai-apps/index.md
       - Cloud Deployment Options: deploy/cloud-deployment-options/index.md
       - Monitoring AI Systems: deploy/monitoring-ai-systems/index.md
+      - LLM Service on AWS Lambda: deploy/aws-lambda/index.md
       - Topics:
           - Infrastructure as Code: deploy/topic/infrastructure-as-code/index.md
           - CI/CD for AI: deploy/topic/cicd-for-ai/index.md

@@ -35,6 +35,4 @@ Essential monitoring strategies to ensure your AI systems perform reliably in pr
 
 ## Case Studies
 
-- [Enterprise AI Deployment](/deploy/case-study/enterprise/)
-- [Startup AI Infrastructure](/deploy/case-study/startup/)
-- [Edge AI Deployment](/deploy/case-study/edge-ai/) 
+- [LLM Service on AWS Lambda](/deploy/aws-lambda/)
