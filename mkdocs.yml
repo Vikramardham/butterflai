@@ -40,6 +40,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - glightbox
+  - mermaid2
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -51,7 +52,11 @@ markdown_extensions:
       generic: true
   - footnotes
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
@@ -62,6 +67,7 @@ nav:
   - Home: index.md
   - Build:
       - Overview: build/index.md
+      - LLMs with Java: build/java/index.md
       - Development Environment: build/development-environment/index.md
       - Framework Selection: build/choosing-frameworks/index.md
       - Data Pipeline Best Practices: build/data-pipeline-best-practices/index.md
