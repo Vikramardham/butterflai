@@ -36,14 +36,6 @@ Ready to transform your business with AI? [Contact us](contact.md) to schedule a
 
 Check out our latest blog posts and case studies:
 
-- [How AI is Transforming Customer Service](blog/ai-customer-service.md)
-- [Implementing Machine Learning in Manufacturing](blog/ml-manufacturing.md)
-- [The Future of AI in Business](blog/future-of-ai.md)
-
-## Featured Projects
-
-Explore some of our successful implementations:
-
-- [Predictive Maintenance System for Industrial Equipment](projects/predictive-maintenance.md)
-- [Customer Churn Prevention Analytics](projects/churn-prevention.md)
-- [Automated Document Processing Solution](projects/document-automation.md)
+- [Navigating the noise](blog/navigating-noise)
+- [LLM functions on AWS Lambda](deploy/aws-lambda/)
+- [Building an LLM application with Java](build/java)
