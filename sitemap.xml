@@ -2,46 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://Vikramardham.github.io/butterflai/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/contact/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/testimonials/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/blog/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/blog/getting-started-with-llms/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/blog/navigating-noise/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/build/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
-         <loc>https://Vikramardham.github.io/butterflai/build/java/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <loc>https://Vikramardham.github.io/butterflai/build/java/langchain4j/</loc>
+         <lastmod>2025-04-19</lastmod>
+    </url>
+    <url>
+         <loc>https://Vikramardham.github.io/butterflai/build/java/spring-ai/</loc>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/deploy/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/deploy/aws-lambda/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Vikramardham.github.io/butterflai/team/</loc>
-         <lastmod>2025-04-18</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
 </urlset>
